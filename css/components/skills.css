@@ -1,0 +1,13 @@
+.skills {
+    background-color: #C85D63;
+    width: 100%;
+    border-bottom: 10px solid #A2B0B1;
+    padding-top: 50px;
+}
+
+.items {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}

@@ -1,0 +1,19 @@
+.item {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.item-title {
+    font-family: "Press Start 2P", sans-serif;
+    color: #FFF;
+    font-size: 25px;
+}
+
+.item::before {
+    content: "";
+    background-color: #A2B0B1;
+    border: 5px solid #000;
+    width: 320px;
+    height: 40px;
+}
