@@ -1,8 +1,8 @@
-.skills {
+.section {
     background-color: #C85D63;
-    width: 100%;
     border-bottom: 10px solid #A2B0B1;
     padding-top: 50px;
+    padding-bottom: 100px;
 }
 
 .items {
