@@ -1,0 +1,21 @@
+.card-project .icon {
+    width: 280px;
+    height: 280px;
+    background-color: #A2B0B1;
+    box-shadow: 10px 10px 0 #FFF;
+}
+
+/* 
+.card-project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 280px;
+    height: 280px;
+    background-color: #A2B0B1;
+    box-shadow: 10px 10px 0 #FFF;
+} */
+
+.card-project.-grey .icon{
+    background-color: #3A4042;
+}
