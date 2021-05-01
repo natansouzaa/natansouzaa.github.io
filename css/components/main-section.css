@@ -14,7 +14,7 @@
 }
 
 .main-section.-bdFirst {
-    border-bottom: 10px solid #C85D63;
+    border-color: #C85D63;
 }
 
 .main-section.-bgGray {
@@ -22,5 +22,5 @@
 }
 
 .main-section.-bdBlack {
-    border-bottom: 10px solid #000;
+    border-color: #000;
 }
