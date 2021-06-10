@@ -9,6 +9,10 @@
     margin-bottom: 60px;
 }
 
+.main-section .main-description{
+    margin: 50px 80px;
+}
+
 .main-section.-bgBlack {
     background-color: #000;
 }
